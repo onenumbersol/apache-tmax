@@ -1,4 +1,4 @@
-# Please see  http://192.168.53.142:30389/root/tmax for samples of HyperCloud DevOps Project
+# Please see  tmax for samples of HyperCloud DevOps Project
 
 | Language | Platform | Author |
 | -------- | --------|--------|
